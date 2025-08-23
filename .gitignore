@@ -8,3 +8,5 @@ test-example.spec.js
 /playwright/.cache/
 /test-results/
 /tests-examples/demo-todo-app.spec.js
+package-lock.json
+NetologyTest.js
