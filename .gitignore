@@ -7,3 +7,4 @@ test-example.spec.js
 /blob-report/
 /playwright/.cache/
 /test-results/
+/tests-examples/demo-todo-app.spec.js
