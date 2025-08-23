@@ -1,0 +1,9 @@
+/node_modules/
+user.js
+test-example.spec.js
+/test
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/test-results/
