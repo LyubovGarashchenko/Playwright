@@ -28,7 +28,7 @@ export default defineConfig({
   use: {
      launchOptions: {
       headless: false,
-      slowMo: 1000,
+      slowMo: 5000,
     },
     /* Base URL to use in actions like `await page.goto('/')`. */
     // baseURL: 'http://localhost:3000',

@@ -10,7 +10,7 @@ test("successlAuthorization", async ({ page }) => {
 
   await expect(page).locator("[/profile/8820392");
   await expect(page).toHaveTitle("Моё обучение");
-  await page.screenshot({ path: "successScreenshot.png" });
+  await page.screenshot({ path: 'successScreenshot.png' });
 });
 
 test("NotSuccessAuthorization", async ({ page }) => {
