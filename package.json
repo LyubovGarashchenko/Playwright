@@ -6,7 +6,7 @@
   "scripts": {
     "test": "playwright test"
   },
-  "author": "",
+  "author": "Lyubov Garashchenko",
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.54.2",
